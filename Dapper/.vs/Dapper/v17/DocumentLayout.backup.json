@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|c:\\users\\roya\\desktop\\methods\\dapper\\dapper\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|solutionrelative:dapper\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|c:\\users\\roya\\desktop\\methods\\dapper\\dapper\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|solutionrelative:dapper\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|c:\\users\\roya\\desktop\\methods\\dapper\\dapper\\repository\\categoryrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|solutionrelative:dapper\\repository\\categoryrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|c:\\users\\roya\\desktop\\methods\\dapper\\dapper\\dapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|solutionrelative:dapper\\dapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|c:\\users\\roya\\desktop\\methods\\dapper\\dapper\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|solutionrelative:dapper\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|c:\\users\\roya\\desktop\\methods\\dapper\\dapper\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|solutionrelative:dapper\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|c:\\users\\roya\\desktop\\methods\\dapper\\dapper\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|solutionrelative:dapper\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|c:\\users\\roya\\desktop\\methods\\dapper\\dapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF9CDC1-61F5-4C46-ABDB-8F4B3C070394}|Dapper\\Dapper.csproj|solutionrelative:dapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Dapper\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Dapper\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:31:28.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepositoy.cs",
+              "DocumentMoniker": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Repository\\CategoryRepositoy.cs",
+              "RelativeDocumentMoniker": "Dapper\\Repository\\CategoryRepositoy.cs",
+              "ToolTip": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Repository\\CategoryRepositoy.cs",
+              "RelativeToolTip": "Dapper\\Repository\\CategoryRepositoy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:31:00.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Dapper\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Repository\\IProductRepository.cs*",
+              "RelativeToolTip": "Dapper\\Repository\\IProductRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:29:54.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Dapper\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Dapper\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:27:23.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Dapper\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Models\\Category.cs*",
+              "RelativeToolTip": "Dapper\\Models\\Category.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:24:03.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Dapper\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Models\\Product.cs*",
+              "RelativeToolTip": "Dapper\\Models\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:20:44.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dapper",
+              "DocumentMoniker": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Dapper.csproj",
+              "RelativeDocumentMoniker": "Dapper\\Dapper.csproj",
+              "ToolTip": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Dapper.csproj*",
+              "RelativeToolTip": "Dapper\\Dapper.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T18:03:28.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Program.cs",
+              "RelativeDocumentMoniker": "Dapper\\Program.cs",
+              "ToolTip": "C:\\Users\\Roya\\Desktop\\methods\\Dapper\\Dapper\\Program.cs",
+              "RelativeToolTip": "Dapper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:02:27.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
